@@ -19,7 +19,7 @@ Projects
 - "Employee Workforce Management & Analysis" Using SQL
 - "Bank Customer Churn Analysis" Using SQL
 
-How to reach me:...
+How to reach me: linkedin.com/in/minal-baraskar-89b132216
 
 Fun fact: "While working with thousands of employee records, that sparked my curiosity for data analytics — turning numbers into insights feels like solving puzzles every day."
 -->
