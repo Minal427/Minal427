@@ -1,8 +1,5 @@
 Hi, I'm Minal
 
-<!--
-**Minal427/Minal427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - "Payroll Associate" with experience in U.S. Payroll Operations
 -  Currently transitioning into "Data Analytics", building skills in SQL, Python, Power BI & Excel
 -  Exposure to AWS and Azure cloud platforms
